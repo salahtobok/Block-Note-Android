@@ -1,0 +1,4 @@
+Application de solitude pour les écrivains. Elle permettra aux écrivains d’écrire (en tactile
+ou en vocal) des parties ou des notes de leurs histoires, livres, etc. en paix en bloquant toutes les
+distractions et autres fonctions sur l'appareil, sauf celles nécessaires pour la tâche d’écriture. Les
+notes peuvent être sauvegardées, partagées, modifiées, etc.
